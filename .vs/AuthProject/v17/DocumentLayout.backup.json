@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|c:\\users\\kalit\\documents\\projects\\services\\authproject\\authproject.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|solutionrelative:authproject.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|c:\\users\\kalit\\documents\\projects\\services\\authproject\\authproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|solutionrelative:authproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|c:\\users\\kalit\\documents\\projects\\services\\authproject\\authproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47A428D-5699-4223-94F9-FF366F5960EC}|AuthProject.Api\\AuthProject.Api.csproj|solutionrelative:authproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "AuthProject.Api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Services\\TokenService.cs",
+              "RelativeToolTip": "AuthProject.Api\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:17:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AuthProject.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Program.cs",
+              "RelativeToolTip": "AuthProject.Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:10:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthProject.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\kalit\\Documents\\projects\\SERVICES\\AuthProject\\AuthProject.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthProject.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:03:28.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

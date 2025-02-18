@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "v5KaGqPo3o0chzUEW8z07MCGZiitz7xGnHE42avXbHE=",
+  "Source": "AuthProject.Api",
+  "BasePath": "_content/AuthProject.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
